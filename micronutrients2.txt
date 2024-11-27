@@ -1,0 +1,14 @@
+Food Item       Potassium per Serving  Total Potassium
+Avocado              485                       485
+Banana               422                       422
+Spinach (1 cup)      40                        540
+Sweet Potato         542                       542
+Tomato               292                       292
+Orange Juice (1 cup) 496                       496
+Yogurt (1 cup)       380                       380
+Salmon (3 oz)        326                       326
+Mushrooms (1 cup)    223                       223
+Potato               925                       925
+Cantaloupe (1 cup)   473                       473
+Lentils (1 cup)      731                       731
+Edamame (1 cup)      676                       676
