@@ -1,0 +1,6 @@
+vitamin A  Carrots, Sweet Potatoes, Spinach, Kale, Mango, Liver, Cantaloupe
+vitamin B9 (Folate) Dark Leafy Greens, Asparagus, Avocado, Lentils, Broccoli, Brussels Sprouts, Beans, Peas
+vitamin C Oranges, Strawberries, Bell Peppers, Kiwi, Broccoli, Brussels Sprouts, Papaya
+vitamin D Salmon, Mackerel, Sardines, Egg Yolks, Fortified Milk, Mushrooms
+vitamin E  Almonds, Sunflower Seeds, Spinach, Avocado, Butternut Squash, Olive Oil, Hazelnuts
+vitamin K Kale, Spinach, Broccoli, Brussels Sprouts, Cabbage, Green Beans, Prunes
